@@ -1,0 +1,6 @@
+.textEffect {
+	color: transparent;
+	background: linear-gradient(to bottom right, #93c5fd, #fff);
+	background-clip: text;
+	-webkit-background-clip: text;
+}
