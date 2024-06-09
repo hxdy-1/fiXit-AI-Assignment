@@ -7,8 +7,8 @@ import Navbar from "@/components/Navbar";
 const sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "FiXit AI Assignment",
-	description: "An assignment by Hady",
+	title: "fiXit AI Assignment",
+	description: "An assignment for internship at fiXit AI by Hady",
 };
 
 export default function RootLayout({

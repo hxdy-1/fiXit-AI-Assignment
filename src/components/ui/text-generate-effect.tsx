@@ -50,6 +50,7 @@ export const TextGenerateEffect = ({
 								style={{
 									display: "inline-block",
 									opacity: 0.3,
+									// color: "lightgray",
 									transform: "translateX(-10px)",
 								}}
 							>
